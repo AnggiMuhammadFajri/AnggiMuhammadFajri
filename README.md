@@ -27,7 +27,7 @@ I'm continually expanding my knowledge in:
   <a href="mailto:anggimfajri1@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge" />
   </a>
-  <a href="https://www.instagram.com/revodwiarya?igsh=MW5zcjNsMGl0d25oZw%3D%3D&utm_source=qr ">
+  <a href="https://www.instagram.com/anggimfajri?igsh=eTNhYndzcnhoOTlj ">
     <img src="https://img.shields.io/badge/Instagram-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="instagram Badge" />
   </a>
 </p>
